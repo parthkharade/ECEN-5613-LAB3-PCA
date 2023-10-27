@@ -1,3 +1,14 @@
+/**
+ * @file serial.c
+ * @author Parth Kharade (you@domain.com)
+ * @brief APIs to access and use the UART module.
+ * @version 0.1
+ * @date 2023-10-27
+ * 
+ * @copyright Copyright (c) 2023
+ * 
+ */
+
 #include "stdio.h"
 #include "at89c51ed2.h"
 #include "serial.h"

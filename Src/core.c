@@ -1,3 +1,14 @@
+/**
+ * @file core.c
+ * @author Parth Kharade (you@domain.com)
+ * @brief Core APIS to change core fuctionalities such as clocks and interrupts for at89c51
+ * @version 0.1
+ * @date 2023-10-27
+ * 
+ * @copyright Copyright (c) 2023
+ * 
+ */
+
 #include "core.h"
 void init_uart(){
 	PCON &= ~(SMOD1);

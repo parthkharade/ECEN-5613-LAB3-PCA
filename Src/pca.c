@@ -1,3 +1,14 @@
+/**
+ * @file pca.c
+ * @author Parth Kharade (you@domain.com)
+ * @brief  APIs to access the PCA module.
+ * @version 0.1
+ * @date 2023-10-27
+ * 
+ * @copyright Copyright (c) 2023
+ * 
+ */
+
 #include "at89c51ed2.h"
 #include "stdint.h"
 #include "pca.h"

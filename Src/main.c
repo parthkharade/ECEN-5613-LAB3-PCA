@@ -1,3 +1,14 @@
+/**
+ * @file main.c
+ * @author Parth Kharade (you@domain.com)
+ * @brief Program to display capabilities of the PCA module of the at89c51c
+ * @version 0.1
+ * @date 2023-10-27
+ * 
+ * @copyright Copyright (c) 2023
+ * 
+ */
+
 #include "stdio.h"
 #include "stdint.h"
 #include "at89c51ed2.h"
